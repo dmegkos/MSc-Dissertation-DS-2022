@@ -1,7 +1,5 @@
 INM363 Individual Project - Dimitrios Megkos - 210034034
 --------------------------------------------------------
-Link to iPython Notebook and files: https://cityuni-my.sharepoint.com/:f:/g/personal/dimitrios_megkos_city_ac_uk/El5ZtsqtYSJHntyrYdNWFssB_53zdzjS1qWsx5lEux-w4Q?e=lmANyz
---------------------------------------------------------
 Instructions: Click on the OneDrive link, open the DM_Notebook.ipynb file and follow the narrative. Cell outputs have been saved. 
 All required files are provided in the same folder.
 The iPython Notebook was created in Google Colab Pro+, the first cells install the required packages missing from Colab, mount my Google Drive and transfer
